@@ -1,3 +1,0 @@
-# bootstrap-archi
-
-Repo initialisé.
